@@ -106,16 +106,8 @@ Sync: Book List reads Hive + BLoC; Book Detail toggles status → updates Hive �
 - Migrate to Dio for advanced networking
 - Use Freezed for immutable models
 
-<!------------------------------------------------------------------------------>
+# <!------------------------------------------------------------------------------>
 
-Note: This API’s "id" stays the same, but only the content is changing. So I initially set the local state using the API response "id" and I also got a unique "isbn". Later, I discussed with the sir, and he said to use "id", so I used "id" instead.
+# Read, I’ve implemented both logics. You can test the app to understand it better, or you can call me if needed. I really enjoyed working on this task.
 
-Tip: Tip: I can also create a truly unique ID myself using methods like:
-
-- UUID
-- DateTime.now()
-- Combination like title + author + id
-
-Here, if you want, you can generate your own unique ID instead of relying on the API’s ID.
-
-<!-- =============================== Thank You =============================== -->
+# <!-- =============================== Thank You =============================== -->
