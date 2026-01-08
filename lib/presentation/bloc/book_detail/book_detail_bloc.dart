@@ -28,4 +28,3 @@ class BookDetailBloc extends Bloc<BookDetailEvent, BookDetailState> {
     });
   }
 }
-
