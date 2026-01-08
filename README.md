@@ -108,6 +108,6 @@ Sync: Book List reads Hive + BLoC; Book Detail toggles status → updates Hive �
 
 <!------------------------------------------------------------------------------>
 
-# Read, I’ve implemented both logics. You can test the app to understand it better, or you can call me if needed. I really enjoyed working on this task.
+# I’ve implemented both logics. You can test the app to understand it better, or you can call me if needed. I really enjoyed working on this task.
 
 #  ============= Thank You =============== #
